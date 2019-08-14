@@ -1,0 +1,11 @@
+Trophic Group,Sim_10000_a,Sim_10000_b,Sim_10000_c,Sim_10000_d,Sim_10000_e,Sim_10000_mean
+Endothermic,3.54E+15,3.55E+15,3.54E+15,3.53E+15,3.54E+15,3.54E+15
+Ectothermic ,5.07E+14,5.41E+14,4.67E+14,4.80E+14,4.97E+14,4.98E+14
+,,,,,,
+Trophic Group,Sim_1000_a,Sim_1000_b,Sim_1000_c,Sim_1000_d,Sim_1000_e,Sim_1000_mean
+Endothermic,3.25E+15,3.25E+15,3.26E+15,3.20E+15,3.30E+15,3.25E+15
+Ectothermic ,5.72E+14,5.49E+14,5.44E+14,5.42E+14,5.16E+14,5.45E+14
+,,,,,,
+Trophic Group,Sim_100_a,Sim_100_b,Sim_100_c,Sim_100_d,Sim_100_e,Sim_100_mean
+Endothermic,2.75E+15,2.71E+15,2.74E+15,2.74E+15,2.83186E+15,2.75E+15
+Ectothermic ,5.98E+14,6.15E+14,5.69E+14,5.40E+14,5.80014E+14,5.80E+14
