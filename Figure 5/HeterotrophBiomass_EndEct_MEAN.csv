@@ -1,0 +1,7 @@
+Simulation ,Thermo,Biomass
+Sim_10000,Endotherm,1.75E+16
+Sim_10000,Ectotherm,6.14E+15
+Sim_1000,Endotherm,1.17E+16
+Sim_1000,Ectotherm,6.31E+15
+Sim_100,Endotherm,6.85E+15
+Sim_100,Ectotherm,6.35E+15
